@@ -1,3 +1,4 @@
+
 /*!
  * Start Bootstrap - Business Casual (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
@@ -189,4 +190,8 @@ footer p {
         display: table;
         clear: both;
     }
+}
+
+.brand {
+	color:#FF0000;
 }
